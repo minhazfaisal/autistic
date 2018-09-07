@@ -1,0 +1,51 @@
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+header{
+	background-image: url(../images/banner.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+.menubar{
+	background-color: #3e4b7b;
+}
+.custom_menu a{
+	color:white !important;
+	font-weight: 900;
+	font-size: 24px;
+}
+.custom_nav ul li a{
+	color:white !important;
+	padding: 30px 40px !important;
+	font-weight: 400;
+	font-size: 14px;
+}
+.banner{}
+.banner_content{
+	margin: 200px 0;
+}
+.banner_content h1{
+	color:white;
+	font-weight: 200;
+	font-size: 48px;
+	margin-bottom: 50px;
+}
+.banner_content input{
+	border: none;
+    border-radius: 20px;
+    font-size: 14px;
+}
+
+.custom_pre{
+
+}
+.custom_pre span{
+
+	border-top-left-radius: 0 !important; 
+	border-top-right-radius: 20px !important; 
+	border-bottom-right-radius: 20px !important; 
+    border-bottom-left-radius: 0 !important; 
+    background-color: white !important;
+    border:none;
+}
